@@ -1,5 +1,5 @@
 <?php
-$server = "127.0.0.1";
+$server = "localhost";
 $username = "root";
 $password = "";
 $database = "cek_pisang_mu";
