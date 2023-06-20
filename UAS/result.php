@@ -84,6 +84,11 @@ if (!isset($_SESSION["login"])) {
                     </div>
                     <div class="row p-md-3">
                         <div class="col">
+                            <p><?= $row["spesifikasi_penyakit"] ?></p>
+                        </div>
+                    </div>
+                    <div class="row p-md-3">
+                        <div class="col">
                             <a class="btn btn-primary" href="main.php" role="button">Kembali</a>
                         </div>
                     </div>
